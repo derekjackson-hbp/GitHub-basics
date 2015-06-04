@@ -2,4 +2,4 @@
 
 Learning how to use gitHub
 
-[I'm learning this on lynda.com!](www.lynda.com)
+[I'm learning this on lynda.com!](http://www.lynda.com/)
